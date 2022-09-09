@@ -2,10 +2,6 @@ html {
     font-size: 22px;
 }
 
-body {
-
-}
-
 main {
     font-family: monospace;
 }
@@ -31,8 +27,5 @@ p {
     background-color: gold;
 }
 
-.highlight {
-
-}
 
 /* https://specificity.keegan.st/ */
