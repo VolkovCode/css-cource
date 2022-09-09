@@ -11,7 +11,7 @@ h1, h2 {
 }
 
 p {
-    color: purple!important; /** Не рекомендуемая практика Dp not use this; **/
+    color: purple!important; /** Не рекомендуемая практика Do not use this; **/
 }
 
 .gray {
